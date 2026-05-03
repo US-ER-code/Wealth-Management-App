@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:orientation="vertical" android:padding="20dp">
+  <TextView android:text="Link via Account Aggregator"
+      android:textColor="@color/text_primary" android:textSize="18sp" android:fontFamily="sans-serif-medium"
+      android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+  <TextView android:text="Grant read-only access to your financial data. You can revoke anytime."
+      android:textColor="@color/text_secondary" android:textSize="13sp" android:layout_marginTop="4dp"
+      android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+  <com.google.android.material.card.MaterialCardView style="@style/WGCard"
+      android:layout_width="match_parent" android:layout_height="wrap_content"
+      android:layout_marginTop="14dp" app:cardBackgroundColor="@color/teal_primary_light">
+    <TextView android:text="Encrypted - Read-only - You control sharing"
+        android:textColor="@color/teal_primary_dark" android:textSize="12sp"
+        android:gravity="center" android:padding="10dp"
+        android:layout_width="match_parent" android:layout_height="wrap_content"/>
+  </com.google.android.material.card.MaterialCardView>
+  <CheckBox android:layout_width="match_parent" android:layout_height="wrap_content"
+      android:text="HDFC Bank - Savings and Current" android:checked="true"
+      android:textColor="@color/text_primary" android:textSize="13sp" android:layout_marginTop="14dp"
+      android:buttonTint="@color/teal_primary"/>
+  <CheckBox android:layout_width="match_parent" android:layout_height="wrap_content"
+      android:text="ICICI Credit Card" android:checked="false"
+      android:textColor="@color/text_primary" android:textSize="13sp" android:buttonTint="@color/teal_primary"/>
+  <CheckBox android:layout_width="match_parent" android:layout_height="wrap_content"
+      android:text="SBI Home Loan" android:checked="true"
+      android:textColor="@color/text_primary" android:textSize="13sp" android:buttonTint="@color/teal_primary"/>
+  <CheckBox android:layout_width="match_parent" android:layout_height="wrap_content"
+      android:text="CAMS Mutual Funds - Investments" android:checked="false"
+      android:textColor="@color/text_primary" android:textSize="13sp" android:buttonTint="@color/teal_primary"/>
+  <TextView android:text="Consent duration: 12 months"
+      android:textColor="@color/text_secondary" android:textSize="12sp" android:layout_marginTop="12dp"
+      android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+  <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+      android:orientation="horizontal" android:layout_marginTop="16dp">
+    <Button android:id="@+id/btnCancel" style="@style/WGButton.Outlined"
+        android:layout_width="0dp" android:layout_height="44dp"
+        android:layout_weight="1" android:text="Cancel" android:layout_marginEnd="8dp"/>
+    <Button android:id="@+id/btnConfirm" style="@style/WGButton.Primary"
+        android:layout_width="0dp" android:layout_height="44dp"
+        android:layout_weight="1" android:text="Grant Access"/>
+  </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,6 @@
+com.wealthguardian.app.test.app-jetified-annotation-experimental-1.3.0-0 C:\Users\Dhruv\.gradle\caches\8.9\transforms\bcfe7721532bff5b934b98b5df8ea623\transformed\jetified-annotation-experimental-1.3.0\res
+com.wealthguardian.app.test.app-jetified-core-1.5.0-1 C:\Users\Dhruv\.gradle\caches\8.9\transforms\fd3af37c875df59ee8e2f67f79e2e7c6\transformed\jetified-core-1.5.0\res
+com.wealthguardian.app.test.app-androidTest-2 D:\Mods\WealthGuardian_v3\app\build\generated\res\resValues\androidTest\debug
+com.wealthguardian.app.test.app-mergeDebugAndroidTestResources-3 D:\Mods\WealthGuardian_v3\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.wealthguardian.app.test.app-mergeDebugAndroidTestResources-4 D:\Mods\WealthGuardian_v3\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.wealthguardian.app.test.app-debugAndroidTest-5 D:\Mods\WealthGuardian_v3\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

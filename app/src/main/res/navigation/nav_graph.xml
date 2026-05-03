@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+    <fragment android:id="@+id/homeFragment"
+        android:name="com.wealthguardian.app.ui.home.HomeFragment" android:label="Home">
+        <action android:id="@+id/action_home_to_accounts" app:destination="@id/accountsFragment"/>
+        <action android:id="@+id/action_home_to_family"   app:destination="@id/familyFragment"/>
+        <action android:id="@+id/action_home_to_vault"    app:destination="@id/vaultFragment"/>
+        <action android:id="@+id/action_home_to_consent"  app:destination="@id/consentFragment"/>
+    </fragment>
+    <fragment android:id="@+id/accountsFragment" android:name="com.wealthguardian.app.ui.accounts.AccountsFragment" android:label="Accounts"/>
+    <fragment android:id="@+id/goalsFragment"    android:name="com.wealthguardian.app.ui.goals.GoalsFragment"    android:label="Goals"/>
+    <fragment android:id="@+id/familyFragment"   android:name="com.wealthguardian.app.ui.family.FamilyFragment"   android:label="Family"/>
+    <fragment android:id="@+id/vaultFragment"    android:name="com.wealthguardian.app.ui.vault.VaultFragment"    android:label="Vault"/>
+    <fragment android:id="@+id/consentFragment"  android:name="com.wealthguardian.app.ui.consent.ConsentFragment" android:label="Consent"/>
+</navigation>

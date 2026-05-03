@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical" android:background="@color/bg_primary">
+  <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+      android:orientation="vertical" android:padding="16dp" android:background="@color/bg_card">
+    <TextView android:text="Consent Manager" android:textColor="@color/text_primary"
+        android:textSize="22sp" android:fontFamily="sans-serif-medium"
+        android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:orientation="horizontal" android:layout_marginTop="4dp">
+      <TextView android:id="@+id/tvActiveCount" android:text="3 Active Consents"
+          android:textColor="@color/teal_primary" android:textSize="13sp" android:fontFamily="sans-serif-medium"
+          android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1"/>
+      <TextView android:id="@+id/tvTotalCount" android:text="4 Total"
+          android:textColor="@color/text_secondary" android:textSize="13sp"
+          android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <com.google.android.material.card.MaterialCardView style="@style/WGCard"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" app:cardBackgroundColor="@color/teal_primary_light">
+      <TextView android:text="Every consent is time-bound, purpose-limited and revocable at any time."
+          android:textColor="@color/teal_primary_dark" android:textSize="12sp" android:padding="10dp"
+          android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </com.google.android.material.card.MaterialCardView>
+    <Button android:id="@+id/btnLinkNew" style="@style/WGButton.Primary"
+        android:layout_width="match_parent" android:layout_height="44dp"
+        android:layout_marginTop="12dp" android:text="+ Link New Account via AA"/>
+  </LinearLayout>
+  <androidx.recyclerview.widget.RecyclerView android:id="@+id/rvConsents"
+      android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"
+      android:padding="16dp" android:clipToPadding="false"/>
+</LinearLayout>

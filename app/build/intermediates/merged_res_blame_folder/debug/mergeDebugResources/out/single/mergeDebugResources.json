@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_goals.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_goals.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\layout_item_goal.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\layout\\item_goal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\layout_item_bank_account.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\layout\\item_bank_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_nav_selector.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\nav_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\layout_dialog_vault_upload.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\layout\\dialog_vault_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\layout_dialog_link_aa.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\layout\\dialog_link_aa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_warning.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_logo.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\layout_item_family_member.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\layout\\item_family_member.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_chevron_right.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_chevron_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\layout_fragment_family.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\layout\\fragment_family.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_bg_circle_light.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\bg_circle_light.xml"
+    },
+    {
+        "merged": "com.wealthguardian.app-debug-54:/color_nav_selector.xml.flat",
+        "source": "com.wealthguardian.app-main-56:/color/nav_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\layout_fragment_consent.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\layout\\fragment_consent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_check.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_notification.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\layout_item_investment.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\layout\\item_investment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_identity.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_identity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_tax.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_tax.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\layout_item_insurance.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\layout\\item_insurance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_bg_badge_white_outline.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\bg_badge_white_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\layout_dialog_add_family.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\layout\\dialog_add_family.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\layout_activity_onboarding.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\layout\\activity_onboarding.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\layout_item_timeline.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\layout\\item_timeline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\layout_item_onboarding_page.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\layout\\item_onboarding_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\layout_fragment_vault.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\layout\\fragment_vault.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_tab_dot_selected.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\tab_dot_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_upload.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\layout_item_vault_document.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\layout\\item_vault_document.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_onboard_family.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_onboard_family.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_accounts.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_accounts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_bg_icon_teal.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\bg_icon_teal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_investment.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_investment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_bg_quick_action.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\bg_quick_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_alert.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_bg_quick_action_primary.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\bg_quick_action_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_tab_dot_unselected.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\tab_dot_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_sync.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_sync.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\layout_item_loan_account.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\layout\\item_loan_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\layout_fragment_goals.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\layout\\fragment_goals.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_insurance.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_insurance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_bg_icon_orange.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\bg_icon_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_progress_bar_drawable.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\progress_bar_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_document.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_document.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\layout_item_insight.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\layout\\item_insight.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_bg_badge_purple.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\bg_badge_purple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_loan.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_loan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_tab_indicator_selector.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\tab_indicator_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_consent.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_consent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_family.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_family.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_link.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_link.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_onboard_vault.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_onboard_vault.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_bg_badge_teal.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\bg_badge_teal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_bank.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_bank.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_bg_spinner.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\bg_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_vault.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_vault.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\layout_fragment_accounts.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\layout\\fragment_accounts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_bg_badge_red.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\bg_badge_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_bg_shimmer_card.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\bg_shimmer_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_bg_icon_purple.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\bg_icon_purple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_check_circle.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_check_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_onboard_dashboard.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_onboard_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_bg_icon_green.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\bg_icon_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\drawable_ic_onboard_consent.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\drawable\\ic_onboard_consent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-debug-54:\\layout_item_consent.xml.flat",
+        "source": "C:\\Users\\Dhruv\\.gradle\\daemon\\8.9\\com.wealthguardian.app-main-56:\\layout\\item_consent.xml"
+    }
+]

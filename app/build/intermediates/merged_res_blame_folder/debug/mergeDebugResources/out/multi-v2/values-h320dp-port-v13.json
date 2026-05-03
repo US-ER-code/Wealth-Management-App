@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.wealthguardian.app-mergeDebugResources-52:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Dhruv\\.gradle\\caches\\8.9\\transforms\\112ba5c3ac5e41e883cc161312448397\\transformed\\material-1.11.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}

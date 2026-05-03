@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/homeFragment"     android:icon="@drawable/ic_home"     android:title="@string/nav_home"/>
+    <item android:id="@+id/accountsFragment" android:icon="@drawable/ic_accounts" android:title="@string/nav_accounts"/>
+    <item android:id="@+id/goalsFragment"    android:icon="@drawable/ic_goals"    android:title="@string/nav_goals"/>
+    <item android:id="@+id/familyFragment"   android:icon="@drawable/ic_family"   android:title="@string/nav_family"/>
+    <item android:id="@+id/vaultFragment"    android:icon="@drawable/ic_vault"    android:title="@string/nav_vault"/>
+</menu>
